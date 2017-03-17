@@ -1,5 +1,5 @@
 #
 
 test
-g2 create
+g2 modfy1
 print("first commit")
